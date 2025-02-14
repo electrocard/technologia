@@ -10,6 +10,15 @@
                   "generic": "https://electrocard.github.io/technologia/"
               }
           }
+      },
+    {
+          "id": "0.0.2",
+          "releasedAt": 209384093820,
+          "promotions": {
+              "downloads": {
+                  "generic": "https://electrocard.github.io/technologia/"
+              }
+          }
       }
   ]
 }
